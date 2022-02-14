@@ -15,7 +15,7 @@
 		<div class="welcome">
 			<picture>
 				<source srcset="NVP_logo_larger.webp" type="image/webp" />
-				<img src="NVP_logo_larger.png" alt="Napa Valley Pooch Logo image" />
+				<img width="100%" src="NVP_logo_larger.png" alt="Napa Valley Pooch Logo image" />
 			</picture>
 		</div>
 
