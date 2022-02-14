@@ -15,15 +15,15 @@
 		<div class="welcome">
 			<picture>
 				<source srcset="NVP_logo_larger.webp" type="image/webp" />
-				<img width="100%" src="NVP_logo_larger.png" alt="Napa Valley Pooch Logo image" />
+				<img src="NVP_logo_larger.png" alt="Napa Valley Pooch Logo image" />
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		This is just an Alpha Verion of<br />Napa Valley Pooch Website
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		It will be launching soon. Edits at <strong>src/routes/index.svelte</strong>
 	</h2>
 
 	<Counter />
